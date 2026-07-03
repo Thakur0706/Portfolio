@@ -9,6 +9,7 @@ const syne = Syne({ subsets: ['latin'], variable: '--font-syne' })
 const mono = JetBrains_Mono({ subsets: ['latin'], variable: '--font-mono' })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://soham-thakur.vercel.app'),
   title: {
     default: 'Soham Thakur — Full-Stack Developer',
     template: '%s | Soham Thakur',
