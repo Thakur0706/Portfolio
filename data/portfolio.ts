@@ -31,7 +31,7 @@ export const projects = [
       'Architected a full‑stack blogging platform featuring a Google Gemini AI writing assistant for draft generation. Built real‑time features with infinite scrolling powered by TanStack Query, and ImageKit CDN for media optimization. Integrated Clerk Auth with webhooks for MongoDB sync, rich‑text editing, category filtering, dynamic search, and a fully responsive mobile‑first UI.',
     tech: ['React', 'Node.js', 'MongoDB', 'Clerk', 'TanStack Query', 'Gemini AI', 'Tailwind CSS'],
     github: 'https://github.com/Thakur0706/blog-website',
-    demo: 'https://blog-website-nine-swart.vercel.app/',
+    demo: 'https://draft.sohamthakur.dev',
     color: '#a78bfa',
   },
   {
